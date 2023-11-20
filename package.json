@@ -1,5 +1,5 @@
 {
-  "name": "@builder.io/gpt-crawler",
+  "name": "rovlt2022/gpt-crawler",
   "version": "0.0.1",
   "type": "module",
   "description": "Crawl a site to generate knowledge files to create your own custom GPT",
